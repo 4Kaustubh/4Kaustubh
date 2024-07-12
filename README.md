@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello 👋, I'm Kaustubh Singh</h1>
+<h1 align="center">Hi 👋, I'm Kaustubh </h1>
 <h3 align="center">A Passionate Fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
