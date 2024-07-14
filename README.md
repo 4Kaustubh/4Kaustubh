@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **ksingh2_be22@thapar.edu**
+- 📫 How to reach me **91kaustubh@gmail.com**
 
 - ⚡ Fun fact **Why don't programmers like nature? Because it has too many bugs. 🐛💻**
 
